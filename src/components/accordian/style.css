@@ -1,0 +1,23 @@
+
+.wrappeer {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.accordian{
+    width: 500px;
+}
+.item{
+    background: rgb(141, 125, 125);
+    margin-bottom: 10px;
+    padding: 10px 20px;
+}
+.titel{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.conten{
+    color: white;
+}
